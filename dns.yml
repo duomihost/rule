@@ -596,3 +596,10 @@
    - domain:auth2.openai.com
    - domain:openai.com
    - domain:chat.openai.com
+   - domain:sentry.io
+   - domain:pay.openai.com
+   - domain:identrust.com
+   - domain:openaiapi-site.azureedge.net
+   - domain:challenges.cloudflare.com
+   - domain:auth0.openai.com
+   - domain:platform.openai.com
