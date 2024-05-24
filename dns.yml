@@ -33,6 +33,7 @@
    - domain:gvt1.com
    - domain:digicert.com
    - domain:viblast.com
+   - domain:bahamut.akamaized.net
    - domain:#HBOGOMAX
    - domain:conviva.com
    - domain:go.com
@@ -49,6 +50,8 @@
    - domain:comhbo.com
    - domain:hbomax.com
    - domain:maxgo.com
+   - domain:discomax.com
+   - domain:maxgo.com 
    - domain:#DAZN
    - domain:control.kochava.com
    - domain:d151l6v8er5bdm.cloudfront.net
@@ -596,10 +599,82 @@
    - domain:auth2.openai.com
    - domain:openai.com
    - domain:chat.openai.com
-   - domain:sentry.io
-   - domain:pay.openai.com
-   - domain:identrust.com
-   - domain:openaiapi-site.azureedge.net
-   - domain:challenges.cloudflare.com
-   - domain:auth0.openai.com
-   - domain:platform.openai.com
+   - domain:oaistatic.com
+   - domain:oaiusercontent.com
+   - domain:hoy.tv
+   - domain:hoytv-live-stream.hoy.tv
+   - domain:#Instagram
+   - domain:achat-followers-instagram.com
+   - domain:acheter-followers-instagram.com
+   - domain:acheterdesfollowersinstagram.com
+   - domain:acheterfollowersinstagram.com
+   - domain:bookstagram.com
+   - domain:carstagram.com
+   - domain:cdninstagram.com
+   - domain:chickstagram.com
+   - domain:ig.me
+   - domain:igcdn.com
+   - domain:igsonar.com
+   - domain:igtv.com
+   - domain:imstagram.com
+   - domain:imtagram.com
+   - domain:instaadder.com
+   - domain:instachecker.com
+   - domain:instafallow.com
+   - domain:instafollower.com
+   - domain:instagainer.com
+   - domain:instagda.com
+   - domain:instagify.com
+   - domain:instagmania.com
+   - domain:instagor.com
+   - domain:instagram-brand.com
+   - domain:instagram-engineering.com
+   - domain:instagram-help.com
+   - domain:instagram-press.com
+   - domain:instagram-press.net
+   - domain:instagram.com
+   - domain:instagramci.com
+   - domain:instagramcn.com
+   - domain:instagramdi.com
+   - domain:instagramhashtags.net
+   - domain:instagramhilecim.com
+   - domain:instagramhilesi.org
+   - domain:instagramium.com
+   - domain:instagramizlenme.com
+   - domain:instagramkusu.com
+   - domain:instagramlogin.com
+   - domain:instagramm.com
+   - domain:instagramn.com
+   - domain:instagrampartners.com
+   - domain:instagramphoto.com
+   - domain:instagramq.com
+   - domain:instagramsepeti.com
+   - domain:instagramtakipcisatinal.net
+   - domain:instagramtakiphilesi.com
+   - domain:instagramtips.com
+   - domain:instagramtr.com
+   - domain:instagran.com
+   - domain:instagranm.com
+   - domain:instagrem.com
+   - domain:instagrm.com
+   - domain:instagtram.com
+   - domain:instagy.com
+   - domain:instamgram.com
+   - domain:instangram.com
+   - domain:instanttelegram.com
+   - domain:instaplayer.net
+   - domain:instastyle.tv
+   - domain:instgram.com
+   - domain:intagram.com
+   - domain:intagrm.com
+   - domain:intgram.com
+   - domain:kingstagram.com
+   - domain:lnstagram-help.com
+   - domain:theinstagramhack.com
+   - domain:oninstagram.com
+   - domain:online-instagram.com
+   - domain:onlineinstagram.com
+   - domain:web-instagram.net
+   - domain:wwwinstagram.com
+   - domain:shudder.com
+   - domain:geolocation.onetrust.com
